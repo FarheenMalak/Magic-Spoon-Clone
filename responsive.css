@@ -1,0 +1,296 @@
+/* Styles for screens up to 768px wide MobilePhones */
+@media (min-width: 200px) and (max-width: 768px) {
+    /* General Styles */
+    .logo{
+     display: none;      
+   }
+   #mobile-logo{
+       height: 25%;
+       width: 25% ;
+       fill: whitesmoke;
+       visibility: visible;   
+   }
+   .mainbg{
+       width: 100%;
+       height: 500px !important;
+       background-size:850px !important;
+       background-position: center;
+   }
+   .mainhead{
+    color: #fff;
+    font-size: 38px !important;
+    font-weight: bolder;
+    width: 400px !important;
+    padding-top: 4%;
+    text-align: center;
+    margin-left: 0%;
+}
+.mainright{
+    float: none;
+}
+.mainbutton{
+    width: 300px !important;
+    margin-left: 12%;
+}
+#mainbutton{
+    margin-left: 12% !important;
+}
+.flavor{
+    height: 300px !important;
+    width: 100%;
+    overflow: hidden !important;
+}
+.flavorimg{
+    height: 75% !important;
+    width: 50% !important;
+    margin-top: 2%;
+    filter: brightness(95%);
+   margin-left: 25% !important;
+   overflow: hidden !important;
+}
+.flavor-para-container{
+    display: none !important;
+}
+.image-slider img {
+    display: none;
+  }
+  
+  .image-slider img:first-child {
+    display: block;
+  }
+  .myslider{
+    height: 880px !important;
+      background-image: url('images1/MS_TREATS_BLOCK_HOME_MOBILE_1_1_828x.gif') !important;
+  }
+  .myslider p{
+    width: 400px !important;
+    top: 10% !important;
+    left: 0% !important; 
+    font-weight:500 !important;
+}
+.myslider h1{
+    top: 5% !important;
+    right: 1% !important;
+    font-weight: bold;
+}
+.slider-button{
+    position: relative;
+    background-color: #35087c;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    font-size: large;
+    border-radius: 40px;
+    width: 250px;
+    padding: 1%;
+    top: 72% !important;
+    left: 17%;
+}
+.moving-doughnuts p{
+    width: 130px !important;
+    color: #35087c;
+    font-size:15px !important;
+    font-weight: 450 !important;
+    margin-top: 15% !important;
+}
+.brand {
+    height: 25px !important;
+    width: 100px !important;
+    margin: auto;
+    margin-left: 15%;
+    margin-top: 8%;
+}
+.protien{
+    color: #bfefff;
+    display: flex;
+    flex-direction: column !important;
+    justify-content: space-between;
+  }
+  .protien-image{
+    height: 100%;
+    width: 100% !important;
+}
+#p-one{
+    position:absolute;
+    top: 370vh !important;
+    left: 2% !important;
+}
+.product-right{
+    max-width: 70% !important;
+    right: -12% !important; 
+}
+.product-left{
+    max-width: 70% !important;
+    left: -12% !important; 
+   z-index: 100 !important;
+}
+.svg-images h1{
+    font-size: 80px !important;
+    font-weight: medium !important;
+    margin-top: 15% !important;
+    right: 13% !important;
+    top: 14% !important;
+}
+.svg-images button{
+    margin-left: 30% !important;
+    margin-top: 12% !important;
+    padding: 1%;
+    font-weight: bold;
+    font-size: large;
+}
+.reviews{
+    width: 100% !important;
+    height: 700px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
+.card{
+    margin-top: 5% !important;
+    background-color: #fff;
+    width: 90% !important;
+    height: 500px !important;
+    margin: auto !important;
+    padding: 5%;
+    color: #35087c;
+}
+.card img{
+    height: 40% !important;
+    width: 50% !important;
+    clip-path: circle(40.7% at 50% 50%);
+    margin-top: 20%;
+    margin-left: 25% !important;
+}
+.slider .controls {
+    display: block !important;
+  }
+.controls img{
+    height: 15px;
+    width: 15px;
+}
+.prev{
+    position: relative;
+    bottom: 50vh;
+}
+.next{
+    position: relative;
+    bottom: 50vh;
+    left: 83%;
+}
+  .controls button{
+      z-index: 100 !important;
+      border-radius: 50%;
+  }
+.review-container{
+    background: linear-gradient(to bottom, #35087c, #5b01ed 0% 65%,#c8eefd);
+    height: 1200px;
+}
+.none-border{
+    width: 450px !important;
+    padding-top: 5% !important;
+    margin-top: 0%;
+    padding-left: 5% !important;
+}
+.myborder{
+   padding-left: 5% !important;
+
+} 
+.mybtn{
+    right: 33% !important;
+    top: 745vh !important;
+}
+.my-image{
+    width: 100% !important;
+    height: 300px;
+    padding: 1% !important;
+}
+.colour-changer h1{
+    width: 400px !important;
+    padding: 0%;
+    margin-top: 10%;
+}
+.colour-changer .none-border{
+    width: 200px !important;
+    padding-right: 0% !important;
+    margin-left: 0% !important;
+    margin-top: 10% !important;
+}
+.colour-changer .myborder{
+    padding-left: 0% !important;
+    color: transparent;
+    font-size: 40px !important;
+    font-weight:bolder;
+    padding-bottom: 0% !important;
+    padding-top: 4%  !important;
+    margin-top: 0%;
+    padding-right: 80% !important;
+    padding-left: 6% !important;
+}
+.colour-changer{
+    display: block !important;
+}
+.colour-changer button{
+    margin-top: 3% !important;
+    margin-right: 18%;
+    border-radius: 40px;
+    position: relative;
+    margin-left: 5% !important;
+    padding: 1%;
+    font-weight: bold;
+    font-size: large;
+}
+footer{
+   height: 450px !important;
+}
+.footerlogo{
+    height: 100px !important;
+    width: 100px !important;
+}
+footer p{
+    color: #fff;
+    width: 150px !important;
+    text-align: left;
+    margin-left: 5%;
+}
+footer button{
+    width: 150px !important;
+}
+
+.icons{
+    position: relative;
+    left: 45% !important;
+    bottom: 5vh;
+}
+#mybtn{
+    margin-left: 0% !important;
+    margin-top: 5% !important;
+}
+footer h4{
+    position: relative;
+    left: 53% !important;
+    width: 200px !important;
+    bottom: 48vh !important;
+    color: #fff;
+}
+input{
+    color: #fff;
+    background: transparent;
+    border: 1px solid #fff !important;
+    border-radius: 40px;
+    width: 200px;
+    padding: 1%;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 0%;
+    display: inline;
+}
+.email{
+    display: flex;
+    flex-direction: column !important;
+    position: relative;
+    left: 50% !important;
+    bottom:40vh;
+    margin-left: 0%;
+    margin-top: 0% !important;
+}
+}
