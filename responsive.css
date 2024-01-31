@@ -2,7 +2,7 @@
 @media (min-width: 200px) and (max-width: 768px) {
     /* General Styles */
     .logo{
-     display: none;      
+     visibility:visible;      
    }
    #mobile-logo{
        height: 25%;
@@ -23,14 +23,14 @@
     width: 400px !important;
     padding-top: 4%;
     text-align: center;
-    margin-left: 0%;
+    margin-left: 5% !important;
 }
 .mainright{
     float: none;
 }
 .mainbutton{
     width: 300px !important;
-    margin-left: 12%;
+    margin-left: 13% !important;
 }
 #mainbutton{
     margin-left: 12% !important;
@@ -197,7 +197,7 @@
 } 
 .mybtn{
     right: 33% !important;
-    top: 745vh !important;
+    top: 645vh !important;
 }
 .my-image{
     width: 100% !important;
