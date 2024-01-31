@@ -30,10 +30,10 @@
 }
 .mainbutton{
     width: 300px !important;
-    margin-left: 16.25% !important;
+    margin-left: 14.25% !important;
 }
 #mainbutton{
-    margin-left: 16.25% !important;
+    margin-left: 14.25% !important;
 }
 .flavor{
     height: 300px !important;
@@ -132,7 +132,7 @@
     top: 14% !important;
 }
 .svg-images button{
-    margin-left: 29% !important;
+    margin-left: 23% !important;
     margin-top: 12% !important;
     padding: 1%;
     font-weight: bold;
@@ -197,7 +197,7 @@
 } 
 .mybtn{
     right: 33% !important;
-    top: 700vh !important;
+    top: 696vh !important;
 }
 .my-image{
     width: 100% !important;
@@ -258,7 +258,7 @@ footer button{
 
 .icons{
     position: relative;
-    left: 45% !important;
+    left: 48% !important;
     bottom: 5vh;
 }
 #mybtn{
