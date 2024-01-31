@@ -10,7 +10,7 @@ body{
     padding-top: 1%;
 }
 #mobile-logo{
-    display:none;
+    visibility:hidden ;
 }
 .mainbg{
     height: 700px;
