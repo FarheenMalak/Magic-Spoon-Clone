@@ -20,7 +20,7 @@
     color: #fff;
     font-size: 38px !important;
     font-weight: bolder;
-    width: 360px !important;
+    width: 300px !important;
     padding-top: 4%;
     text-align: center;
     margin-left: 5% !important;
@@ -30,10 +30,10 @@
 }
 .mainbutton{
     width: 300px !important;
-    margin-left: 15% !important;
+    margin-left: 18% !important;
 }
 #mainbutton{
-    margin-left: 15% !important;
+    margin-left: 18% !important;
 }
 .flavor{
     height: 300px !important;
@@ -128,11 +128,11 @@
     font-size: 80px !important;
     font-weight: medium !important;
     margin-top: 15% !important;
-    right: 15% !important;
+    right: 19% !important;
     top: 14% !important;
 }
 .svg-images button{
-    margin-left: 33% !important;
+    margin-left: 37% !important;
     margin-top: 12% !important;
     padding: 1%;
     font-weight: bold;
@@ -197,7 +197,7 @@
 } 
 .mybtn{
     right: 33% !important;
-    top: 685vh !important;
+    top: 705vh !important;
 }
 .my-image{
     width: 100% !important;
