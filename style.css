@@ -10,7 +10,7 @@ body{
     padding-top: 1%;
 }
 #mobile-logo{
-    visibility:hidden ;
+    display: none;
 }
 .mainbg{
     height: 700px;
@@ -644,7 +644,7 @@ text-align: center;
     color: #fff;
     position: absolute;
     right: 20%;
-    top: 725vh;
+    top: 730vh;
     font-size: 20px;
     font-weight:bolder;
 }
