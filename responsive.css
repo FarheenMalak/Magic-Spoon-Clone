@@ -2,7 +2,7 @@
 @media (min-width: 200px) and (max-width: 768px) {
     /* General Styles */
     .logo{
-     visibility:hidden;      
+     display:none !important;      
    }
     body{
         overflow: hidden !important;
@@ -11,7 +11,7 @@
        height: 25%;
        width: 25% ;
        fill: whitesmoke;
-       visibility: visible;   
+       display: none !important;   
    }
    .mainbg{
        width: 100%;
