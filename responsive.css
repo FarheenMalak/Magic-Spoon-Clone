@@ -297,3 +297,17 @@ input{
     margin-top: 0% !important;
 }
 }
+@media (min-width: 1200px){
+  .my-image{
+   width: 24.7% !important;
+  }
+  .mybtn{
+    top: 790vh !important;
+}
+#dekstop-head{
+    width: 40%  !important;
+}
+.colour-changer button{
+    margin-right: 5% !important;
+}
+}
