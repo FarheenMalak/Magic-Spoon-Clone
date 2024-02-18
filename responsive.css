@@ -198,9 +198,11 @@
    padding-left: 5% !important;
 
 } 
+.grow{
+    flex-direction: column !important;
+}
 .mybtn{
-    right: 33% !important;
-    top: 696vh !important;
+    align-self: normal !important;
 }
 .my-image{
     width: 100% !important;
@@ -301,9 +303,7 @@ input{
   .my-image{
    width: 24.7% !important;
   }
-  .mybtn{
-    top: 790vh !important;
-}
+
 #dekstop-head{
     width: 40%  !important;
 }
