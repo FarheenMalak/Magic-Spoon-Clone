@@ -198,11 +198,9 @@
    padding-left: 5% !important;
 
 } 
-.grow{
-    flex-direction: column !important;
-}
 .mybtn{
-    align-self: normal !important;
+    right: 33% !important;
+    top: 696vh !important;
 }
 .my-image{
     width: 100% !important;
@@ -299,11 +297,14 @@ input{
     margin-top: 0% !important;
 }
 }
+/* Media query for laptop screens */
 @media (min-width: 1200px){
   .my-image{
    width: 24.7% !important;
   }
-
+.mybtn{
+    top: 790vh !important;
+}
 #dekstop-head{
     width: 40%  !important;
 }
@@ -311,3 +312,4 @@ input{
     margin-right: 5% !important;
 }
 }
+
