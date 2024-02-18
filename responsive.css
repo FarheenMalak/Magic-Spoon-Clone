@@ -4,6 +4,9 @@
     .logo{
      display:none !important;      
    }
+    body{
+    overflow-x : hidden !important;
+    }
    #mobile-logo{
        height: 25%;
        width: 25% ;
