@@ -764,5 +764,13 @@ input{
     margin-left: 0%;
     margin-top: 0%;
 }
-
+@media (min-width: 1200px) {
+    .slider-button {
+        width: 350px;  /* Increase width */
+        padding: 1.5%;  /* Increase padding for better appearance */
+        font-size: 24px; /* Increase font size */
+        top: 35%;  /* Adjust top position */
+        left: 15%;  /* Adjust left position for centering */
+    }
+}
 
