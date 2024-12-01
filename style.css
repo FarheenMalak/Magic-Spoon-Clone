@@ -786,4 +786,10 @@ input{
 	.colour-changer button{
     margin-top: 5%;
 }
+  .myslider p{
+    width: 480px;
+    top: 35%;
+    left: 20%; 
+
+}
 }
