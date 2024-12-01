@@ -769,7 +769,7 @@ input{
         width: 350px;  /* Increase width */
         padding: 0.5%;  /* Increase padding for better appearance */
         font-size: 20px; /* Increase font size */
-        top: 55%;  /* Adjust top position */
+        top: 60%;  /* Adjust top position */
         left: 20%;  /* Adjust left position for centering */
     }
 	.myslider{
@@ -783,5 +783,7 @@ input{
     padding: 0%;
     margin-top: 5%;
 }
+	.colour-changer button{
+    margin-top: 5%;
 }
 
